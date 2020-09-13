@@ -4,3 +4,5 @@ This repository contains some material I've created to teach courses on C++ and 
 https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4pM7cZTe48udxbI1fR0zbM
 
 https://gitlab.com/kshdes/software_design_usingcplusplus
+
+https://github.com/douglascraigschmidt/CS251/wiki/Installing-Software
