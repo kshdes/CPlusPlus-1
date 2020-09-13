@@ -9,13 +9,13 @@ https://github.com/douglascraigschmidt/CS251/wiki/Installing-Software
 
 
 
-Git global setup
+# Git global setup
 
 git config --global user.name "kshdes"
 
 git config --global user.email "ksh.desh@outlook.com"
 
-Create a new repository
+# Create a new repository
 
 git clone https://gitlab.com/kshdes/software_design_usingcplusplus.git
 
@@ -30,7 +30,7 @@ git commit -m "add README"
 git push -u origin master
 
 
-Push an existing folder
+# Push an existing folder
 
 cd existing_folder
 
@@ -45,7 +45,7 @@ git commit -m "Initial commit"
 git push -u origin master
 
 
-Push an existing Git repository
+# Push an existing Git repository
 
 cd existing_repo
 
